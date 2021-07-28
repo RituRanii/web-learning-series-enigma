@@ -1,0 +1,66 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.emj{
+    background-color: rgb(255, 198, 198);
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+}
+.Circle{
+    background-color: rgb(255, 225, 93);
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+.eyes{
+    background-color: azure;
+    height: 45px;
+    width: 45px ;
+    border-radius: 50%;
+    position: relative;
+    right: 11em;
+    top: 3em;
+    border: 2px solid black;
+}
+.eye{
+    background-color: azure;
+    height: 45px;
+    width: 45px;
+    border-radius: 50%;
+    position: relative;
+    right: 8em;
+    top: 2.96em;
+    border: 2px solid black;
+}
+.seyes{
+    background-color: rgb(5, 5, 5);
+    height: 24px;
+    width: 24px;
+    border-radius: 50%;
+    position: relative;
+    right: 160px;
+    top: 3em;
+}
+.eyen{
+background-color: rgb(13, 13, 14);
+height: 24px;
+width: 24px;
+border-radius: 50%;
+position: relative;
+right: 280px;
+top: 3.06em;
+}
+.smile{
+    border: solid 7px rgb(238, 195, 78);
+    position: relative;
+    width: 5em;
+    height: 3em;
+    top: 6em;
+    right: 18em;
+    border-top: transparent;
+    border-left: transparent;
+    border-right: transparent;
+}
+
